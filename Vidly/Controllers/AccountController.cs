@@ -12,6 +12,9 @@ using Vidly.Models;
 
 namespace Vidly.Controllers
 {
+
+    //
+
     [Authorize]
     public class AccountController : Controller
     {
